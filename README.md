@@ -1,1 +1,1 @@
-### (https://app.patika.dev/cetinalpfurkan)
+### app.patika.dev/cetinalpfurkan
